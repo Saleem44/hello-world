@@ -1,2 +1,6 @@
 # hello-world
-My first repository on GitHub.
+
+
+Hi Everyone!
+
+Ali is here, I am here because of Github.
